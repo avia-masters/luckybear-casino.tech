@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luckybear-casino.tech/sitemap.xml
